@@ -1,12 +1,16 @@
 @import url("./header.css");
 
 :root {
-  --cor-de-fundo: #EBECEE;
-  --white-color: #ffff
+    --cor-de-fundo: #EBECEE;
+    --white-color: #FFFFFF;
+    --orange-color: #EB9B00;
+    --blue-color: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+    --font: "Poppins";
 }
 
 body {
-  background-color: var(--cor-de-fundo);
+    background-color: var(--cor-de-fundo);
+    font-family: var(--font);
+    font-size: 16px;
+    font-weight: 400;
 }
-
-
