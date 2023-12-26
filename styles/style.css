@@ -9,7 +9,8 @@
     --cor-de-fundo: #EBECEE;
     --white-color: #FFFFFF;
     --orange-color: #EB9B00;
-    --blue-color: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+    --blue-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+    --blue-color:#002F52;
     --font: "Poppins";
 }
 
